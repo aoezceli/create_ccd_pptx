@@ -1,0 +1,10 @@
+# local Python environment
+.venv/
+__pycache__/
+*.pyc
+# past case material (NEJM PDFs are copyrighted; decks contain names) – keep local only
+Cases/
+*.zip
+# macOS / Office
+.DS_Store
+~$*
